@@ -1,6 +1,6 @@
 # vue-community-playlist
 
-> A Vue.js frontend for the community-playlist.
+> A Vue.js frontend for the [community-playlist](https://github.com/ChaosZar/community-playlist) project.
 
 ## Build Setup
 
